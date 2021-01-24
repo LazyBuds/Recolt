@@ -9,9 +9,9 @@ Recolt offers text-to-speech in 78 different languages , language translation fo
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/lazybuds) 
 
 ## Wiki
-<a href="https://github.com/LazyBuds/recolt">ℹ️ About Tommy</a> <br>
+<a href="https://github.com/LazyBuds/recolt">ℹ️ About Recolt</a> <br>
 <a href="https://github.com/LazyBuds/recolt">🛠 Setup</a> <br>
-<a href="https://github.com/LazyBuds/recolt">ℹ️ Command Refrence</a> <br>
+<a href="https://github.com/LazyBuds/recolt">📃 Command Refrence</a> <br>
 
 ## Support
 
